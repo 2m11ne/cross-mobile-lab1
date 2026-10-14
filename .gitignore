@@ -1,0 +1,29 @@
+# Node / React Native
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
